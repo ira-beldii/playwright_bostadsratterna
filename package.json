@@ -1,0 +1,22 @@
+{
+  "name": "playwright_bostadsratterna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ira-beldii/playwright_bostadsratterna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ira-beldii/playwright_bostadsratterna/issues"
+  },
+  "homepage": "https://github.com/ira-beldii/playwright_bostadsratterna#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.9.0"
+  }
+}
